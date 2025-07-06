@@ -29,10 +29,9 @@ Evaluar si existen diferencias en los hábitos de escucha musical entre usuarios
 spotify-habits-city-comparison/
 ├── notebooks/
 │   └── spotify_city_analysis.ipynb     # Notebook principal
-├── images/
-│   └── [visualizaciones opcionales]
+│   └── genres_unicos.txt # Todos los géneros únicos (si se desea inspección completa)
 ├── data/
-│   └── [archivos de datos si se incluyen]
+│   └── music_project_en.csv]
 ├── README.md
 └── requirements.txt
 ```
